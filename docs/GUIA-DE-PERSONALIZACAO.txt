@@ -1,0 +1,96 @@
+ZYRON — GUIA DE PERSONALIZAÇÃO
+==============================
+
+Template:
+Sua Marca Psicologia
+
+
+ALTERAR INFORMAÇÕES
+-------------------
+
+As informações principais estão no arquivo:
+
+index.html
+
+
+Você pode alterar:
+
+- Nome profissional
+- CRP
+- Textos
+- Especialidades
+- Depoimentos
+- Endereço
+- WhatsApp
+- Instagram
+
+
+
+ALTERAR CORES
+-------------
+
+As cores ficam no arquivo:
+
+css/style.css
+
+
+Procure por:
+
+:root
+
+
+Principais variáveis:
+
+--sage
+Cor principal do template
+
+--dark
+Textos e destaques
+
+--background
+Cor de fundo
+
+
+
+ALTERAR LOGO
+------------
+
+Substitua:
+
+assets/img/logo.png
+
+
+A logo será atualizada automaticamente em:
+
+- Menu
+- Loader
+- Rodapé
+
+
+
+ALTERAR WHATSAPP
+----------------
+
+Procure no index.html por:
+
+wa.me/5500000000000
+
+
+Substitua pelo número desejado.
+
+
+
+PUBLICAÇÃO
+----------
+
+O template pode ser publicado em:
+
+- Vercel
+- Netlify
+- GitHub Pages
+
+
+
+ZYRON
+
+Criando experiências digitais modernas.

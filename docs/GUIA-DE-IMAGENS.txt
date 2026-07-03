@@ -1,0 +1,62 @@
+ZYRON — GUIA DE IMAGENS
+=======================
+
+Template: Sua Marca Psicologia
+
+
+ESTRUTURA DAS IMAGENS
+---------------------
+
+Todas as imagens principais ficam em:
+
+assets/img/
+
+
+Para trocar as fotos do site, substitua os arquivos mantendo exatamente os nomes:
+
+
+logo.png
+
+Logo da marca/profissional.
+Usada no menu, loader e rodapé.
+
+
+hero.jpg
+
+Imagem principal do início do site.
+Recomendado:
+Vertical
+Alta qualidade
+
+
+sobre.jpg
+
+Foto da profissional na seção Sobre.
+
+
+atendimento.jpg
+
+Imagem representando sessão ou atendimento.
+
+
+consultorio.jpg
+
+Foto do ambiente/consultório.
+
+
+depoimento-1.jpg
+depoimento-2.jpg
+depoimento-3.jpg
+
+Fotos dos depoimentos.
+
+
+IMPORTANTE
+----------
+
+Não altere os nomes dos arquivos.
+
+Substitua apenas a imagem mantendo o mesmo nome.
+
+
+Desenvolvido por ZYRON.
